@@ -1,8 +1,0 @@
-{
-	"id":1,
-	"name":"Software Development",
-	"serviceDetails":[
-		{"id":1,"serviceName":"Java Enterprise Dev"},
-		{"id":2,"serviceName":"DotNet Dev"}
-	]
-}
